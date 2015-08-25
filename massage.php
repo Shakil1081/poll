@@ -6,5 +6,7 @@
  * and open the template in the editor.
  */
 $form_submition_success ="Thank you your submitionis success please check your Email";
+$errore ="please try agin";
+$workin= "form here working";
 ?>
 
